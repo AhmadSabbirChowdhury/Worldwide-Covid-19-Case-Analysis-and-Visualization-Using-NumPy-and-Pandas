@@ -6,7 +6,9 @@ along with many other packages.
 "Folium" is used for <b>Map Visualization. It used to plot graphs on Canvas</b> <br>
 "Plotly" is used for <b>Dynamic Plotting. It makes all the plots and graphs super Interactive.</b>
 
-##### *Some visualizations are added below. For the best experience, it's recommended to open the .ipynb file in jupyter notebook or any other similar notebooks, as most of the graphs and plots are dynamic, so users can interact with it.</p>*
+-----------------------------------------------------------
+#### *Some visualizations are added below. For the best experience, it's recommended to open the .ipynb file in jupyter notebook or any other similar notebooks, as most of the graphs and plots are dynamic, so users can interact with it.</p>*
+-----------------------------------------------------------
 
 #### The dataset was collected from the following github repo: https://github.com/datasets/covid-19
 After downloading the data from the above link, the data was cleaned and preprocessed.
