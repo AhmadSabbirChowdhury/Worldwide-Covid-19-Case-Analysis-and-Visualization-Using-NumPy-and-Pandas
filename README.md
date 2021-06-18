@@ -43,7 +43,7 @@ The following CSV files were used to do this Covid-19 Case analysis:
 ### 7. Top 15 Countries Affected by Covid-19 Cases
 ![7](https://user-images.githubusercontent.com/45898995/122514477-d88a9a80-d02d-11eb-9d65-f75d08375f5b.png)
 
-### 8. Daily New Cases Worldwide
+### 8. Bar Plot of Daily New Cases Worldwide
 ![10](https://user-images.githubusercontent.com/45898995/122514939-84cc8100-d02e-11eb-818b-8b3b7c9365fa.png)
 
 ### 9. Tree Map Analysis For Confirmed COVID Cases
