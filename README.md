@@ -2,6 +2,12 @@
 Worldwide corona virus cases were analyzed using different libraries like 'NumPy' and 'Pandas'. For visualization, 'Matplotlib' and 'Seaborn' libraries were used 
 along with many other packages. 
 
+### Two important libraries that were used for this project are: "Folium" and "Plotly"
+"Folium" is used for <b>Map Visualization. It used to plot graphs on Canvas</b> <br>
+"Plotly" is used for <b>Dynamic Plotting. It makes all the plots and graphs super Interactive.</b>
+
+*Some visualizations are added below. For the best experience, it's recommended to open the .ipynb file in jupyter notebook or any other similar notebooks.*
+
 #### The dataset was collected from the following github repo: https://github.com/datasets/covid-19
 After downloading the data from the above link, the data was cleaned and preprocessed.
 The following CSV files were used to do this Covid-19 Case analysis:
