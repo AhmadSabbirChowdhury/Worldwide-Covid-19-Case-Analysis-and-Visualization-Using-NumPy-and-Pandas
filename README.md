@@ -6,7 +6,7 @@ along with many other packages.
 "Folium" is used for <b>Map Visualization. It used to plot graphs on Canvas</b> <br>
 "Plotly" is used for <b>Dynamic Plotting. It makes all the plots and graphs super Interactive.</b>
 
-*Some visualizations are added below. For the best experience, it's recommended to open the .ipynb file in jupyter notebook or any other similar notebooks.*
+*Some visualizations are added below. For the best experience, it's recommended to open the .ipynb file in jupyter notebook or any other similar notebooks, as most of the graphs and plots are dynamic, so users can interact with it.*
 
 #### The dataset was collected from the following github repo: https://github.com/datasets/covid-19
 After downloading the data from the above link, the data was cleaned and preprocessed.
@@ -51,6 +51,10 @@ The following CSV files were used to do this Covid-19 Case analysis:
 
 ### 10. Tree Map Analysis For Confirmed COVID Deaths
 ![15](https://user-images.githubusercontent.com/45898995/122515998-07a20b80-d030-11eb-9f9b-b7004d207022.png)
+
+### 11. Confirmed, Death and Mortality Rate of other viruses compared to COVID-19
+![16](https://user-images.githubusercontent.com/45898995/122518019-8435e980-d032-11eb-8dff-146b34e30007.png)
+
 
 
 
