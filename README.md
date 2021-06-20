@@ -18,7 +18,7 @@ The following CSV files were used to do this Covid-19 Case analysis:
 3. covid_19_data_cleaned.csv
 4. daywise.csv
 
-*covid_19_data_cleaned.csv* file has day wise report of all the countries around the world. It has the Latitude and Longitude of all the covid affected nation. This CSV file also has daily 'active', 'recovered', 'confirmed' and 'death' cases worldwide. 
+*covid_19_data_cleaned.csv* file has day wise report of all the countries around the world. It has the Latitude and Longitude of all the covid affected nations. This CSV file also has daily 'active', 'recovered', 'confirmed' and 'death' cases worldwide. 
 
 ##### The pre-processed datasets were last updated on 24th May, 2021.
 ---------------------------------------------------------------------------------------
